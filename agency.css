@@ -27,9 +27,7 @@ a:active,
 a.active {
   outline: none;
 }
-a {
-  color: #fed136;
-}
+
 a:hover,
 a:focus,
 a:active,

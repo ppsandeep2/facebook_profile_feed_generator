@@ -61,27 +61,4 @@
         color:#999;
     }
     
-    .like-icon {
-        background-image: url('images/fb-sprite.png');
-        background-repeat: no-repeat;
-        background-size: auto;
-        background-position: -146px -514px;
-        height: 15px;
-        width: 13px;
-        display:block;
-        float:left;
-        margin: 2px 5px 0 0;
-    }
-    
-    .comment-icon {
-        background-image: url('images/fb-sprite.png');
-        background-repeat: no-repeat;
-        background-size: auto;
-        background-position: -160px -514px;
-        height: 15px;
-        width: 13px;
-        display:block;
-        float:left;
-        margin: 3px 5px 0 0;
-        
-    }
+   

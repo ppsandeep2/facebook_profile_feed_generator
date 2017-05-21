@@ -3,4 +3,5 @@
 -Used bootsnip for profile and post layout
 -Customised bootstrap navigation bar to make it look like facebook
 -Feed shows only posts user has made not friend posts
--Feed shows only status updates,user posts and photo posts-(does not show posts with links and ads)
+-updated version uploaded on https://github.com/ppsandeep2/facebook_profile_feed_generator.git
+
