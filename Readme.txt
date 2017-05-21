@@ -1,0 +1,6 @@
+-Open index.html- 2 tabs to show profile info and feed
+-Enter token id in bar provided
+-Used bootsnip for profile and post layout
+-Customised bootstrap navigation bar to make it look like facebook
+-Feed shows only posts user has made not friend posts
+-Feed shows only status updates,user posts and photo posts-(does not show posts with links and ads)

@@ -1,0 +1,87 @@
+#feed{
+
+    color: #3B5998!important;
+}
+
+.profile-info{
+        overflow:hidden;
+    }
+    
+    .profile-photo{
+        float:left;
+        margin:0 .5em 0 0;
+    }
+    
+    .profile-photo img{
+        width:40px; height:40px;
+    }
+    
+    .profile-name{
+        float:left;
+        width:85%;
+    }
+    
+    .time-ago{
+        color:#999;
+    }
+    
+    .profile-message{
+        margin:1em 0;
+    }
+    
+    .post-link{
+        text-decoration:none;
+    }
+    
+    .post-content{
+        background: #f6f7f9; border: 1px solid #d3dae8; overflow:hidden;
+    }
+    
+    .post-content img{
+        width:100%;
+    }
+    
+    .post-status{
+        margin:.5em; font-weight:bold;
+    }
+    
+    .post-picture{
+        width:25%; float:left;
+    }
+    
+    .post-info{
+        width:70%; float:left; margin:.5em;
+    }
+    
+    .post-info-name{
+        font-weight:bold;
+    }
+    
+    .post-info-description{
+        color:#999;
+    }
+    
+    .like-icon {
+        background-image: url('images/fb-sprite.png');
+        background-repeat: no-repeat;
+        background-size: auto;
+        background-position: -146px -514px;
+        height: 15px;
+        width: 13px;
+        display:block;
+        float:left;
+        margin: 2px 5px 0 0;
+    }
+    
+    .comment-icon {
+        background-image: url('images/fb-sprite.png');
+        background-repeat: no-repeat;
+        background-size: auto;
+        background-position: -160px -514px;
+        height: 15px;
+        width: 13px;
+        display:block;
+        float:left;
+        margin: 3px 5px 0 0;
+        
+    }
