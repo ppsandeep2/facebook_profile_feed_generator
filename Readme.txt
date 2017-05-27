@@ -4,4 +4,4 @@
 -Customised bootstrap navigation bar to make it look like facebook
 -Feed shows only posts user has made not friend posts
 -updated version uploaded on https://github.com/ppsandeep2/facebook_profile_feed_generator.git
-
+-hosted on https://ppsandeep2.github.io/facebook_profile_feed_generator/
